@@ -1,4 +1,4 @@
-## Applikasi GUI LIST BARANG TOKO
+# Aplikasi GUI LIST BARANG TOKO
 
 Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 

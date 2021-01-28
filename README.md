@@ -13,11 +13,11 @@ Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 
 ## Screenshot Aplikasi :
 
-![Login / Admin]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/admin-layout.png")
+![Login / Admin](https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/admin-layout.png)
 
-![Dashboard]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard.png")
+![Dashboard](https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard.png)
 
-![Dashboard Tambah]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard-tambah.png")
+![Dashboard Tambah](https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard-tambah.png)
 
 ## Folder Structure
 

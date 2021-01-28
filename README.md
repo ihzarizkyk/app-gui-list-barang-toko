@@ -9,6 +9,7 @@ Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 3. Muhammad Naufal Azizi, 1204190016
 4. Khairima Dwi Hanifa, 1204190019
 5. Mustafa Farhan Sasongko, 1204190036
+6. Muhammad Syauqi Habibie Aly Musa, 1204190064
 
 
 ## Screenshot Aplikasi :

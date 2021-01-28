@@ -10,6 +10,15 @@ Aplikasi GUI JavaFX CRUD untuk Menampilkan List Barang Toko
 4. Khairima Dwi Hanifa, 1204190019
 5. Mustafa Farhan Sasongko, 1204190036
 
+
+## Screenshot Aplikasi :
+
+![Login / Admin]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/admin-layout.png")
+
+![Dashboard]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard.png")
+
+![Dashboard Tambah]("https://github.com/ihzarizkyk/app-gui-list-barang-toko/blob/main/screenshot/dashboard-tambah.png")
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
